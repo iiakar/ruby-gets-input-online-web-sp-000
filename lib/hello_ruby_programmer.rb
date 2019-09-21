@@ -5,4 +5,4 @@ def greeting
 end
 
 name = gets.chomp
-greeting("#{name")
+greeting("#{name}")
