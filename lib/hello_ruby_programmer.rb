@@ -6,4 +6,4 @@ def greeting(name)
 end
 # puts "Please enter your name so that we can greet you more personally:"
 
-#greeting(name)
+greeting(name)
