@@ -1,3 +1,4 @@
+
 name=gets.chomp
 
 def greeting(name)
